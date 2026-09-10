@@ -11,8 +11,8 @@ An AI-oriented academic project management interface that brings project setup, 
 
 ## Dashboard Preview
 ![Create Account](AAPM/src/create_account.png )
-![Sign Up](images/signup.png)
-![Dashboard](images/dashboard.png)
+![Sign Up](AAPM/src/signup .png)
+![Dashboard](AAPM/src/dashboard.png)
 
 
 ## Project Overview
@@ -221,6 +221,3 @@ Navigation is implemented through `AppContext` page state rather than a routing 
 
 This repository is a frontend product prototype suitable for demonstrating the academic project planning and monitoring experience. The interface, workflows, local demo authentication, static agent results, documentation drafts, and dashboard views are implemented. Backend services, persistent storage, live AI execution, and production authentication are outside the current scope.
 
-## License
-
-No license has been specified for this repository yet.
