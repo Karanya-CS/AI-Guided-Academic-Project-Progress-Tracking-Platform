@@ -1,5 +1,4 @@
-# AI-Guided Academic Project Progress Tracking Platform
-
+# AI-Guided Academic Project Progress Tracking Platform with Planning & Mentorship Assistance
 > A focused workspace for planning, analyzing, tracking, documenting, and supervising academic projects.
 
 An AI-oriented academic project management interface that brings project setup, structured analysis, milestone tracking, mentorship guidance, documentation, and faculty review into one product experience.
