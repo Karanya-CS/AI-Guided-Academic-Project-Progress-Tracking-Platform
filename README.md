@@ -8,7 +8,7 @@ An AI-oriented academic project management interface that brings project setup, 
 ## Dashboard Preview
 ![Create Account](AAPM/src/create_account.png )
 
-![Sign Up]([AAPM/src/signup.png](https://github.com/Karanya-CS/AI-Guided-Academic-Project-Progress-Tracking-Platform/blob/main/AAPM/src/signup%20.png?raw=true))
+![Sign Up](AAPM/src/Screenshot 2026-09-10 200555.png)
 
 ![Dashboard](AAPM/src/dashboard.png)
 
