@@ -10,7 +10,9 @@ An AI-oriented academic project management interface that brings project setup, 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06b6d4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ## Dashboard Preview
-![Dashboard](AAPM/src/create_account.png )
+![Create Account](AAPM/src/create_account.png )
+![Sign Up](images/signup.png)
+![Dashboard](images/dashboard.png)
 
 
 ## Project Overview
