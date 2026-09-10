@@ -11,7 +11,9 @@ An AI-oriented academic project management interface that brings project setup, 
 
 ## Dashboard Preview
 ![Create Account](AAPM/src/create_account.png )
-![Sign Up](AAPM/src/signup .png)
+
+![Sign Up](AAPM/src/signup.png)
+
 ![Dashboard](AAPM/src/dashboard.png)
 
 
