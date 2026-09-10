@@ -11,7 +11,7 @@ An AI-oriented academic project management interface that brings project setup, 
 
 ## Dashboard Preview
 
-![Dashboard preview for the AI-Guided Academic Project Progress Tracking Platform](./public/dashboard-preview.png)
+
 
 ## Project Overview
 
