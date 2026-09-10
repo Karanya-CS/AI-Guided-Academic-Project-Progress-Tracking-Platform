@@ -4,15 +4,11 @@
 
 An AI-oriented academic project management interface that brings project setup, structured analysis, milestone tracking, mentorship guidance, documentation, and faculty review into one product experience.
 
-[![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-6-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)](https://vite.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06b6d4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 ## Dashboard Preview
 ![Create Account](AAPM/src/create_account.png )
 
-![Sign Up](AAPM/src/signup.png)
+![Sign Up]([AAPM/src/signup.png](https://github.com/Karanya-CS/AI-Guided-Academic-Project-Progress-Tracking-Platform/blob/main/AAPM/src/signup%20.png?raw=true))
 
 ![Dashboard](AAPM/src/dashboard.png)
 
